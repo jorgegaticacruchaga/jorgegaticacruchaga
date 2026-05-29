@@ -14,16 +14,6 @@ Tecnico especializado en infraestructura, automatización y seguridad informáti
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgegaticacruchaga&show_icons=true&theme=dark" alt="Estadísticas de GitHub" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgegaticacruchaga&layout=compact&theme=dark" alt="Lenguajes más usados" width="48%" />
-</p>
-
----
-
 ## Tecnologías que yo conozco 💻
 
 <p align="left">
