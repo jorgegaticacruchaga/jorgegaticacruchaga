@@ -5,7 +5,7 @@
 * 🌱 Estoy ahora mismo Cursando **BootCamp Full Stack JAVA**.
 * 🎓 Soy **Analista programador** con experiencia en telecomunicaciones y banca.
 * 🚀 Estoy mejorando día a día como profesional.
-* 📬 Siéntete libre de contactarme: **jorgegaticacruchaga@email.com** | **+56 9 99826954**
+* 📬 Siéntete libre de contactarme: **jorgegaticacruchaga@gmail.com** | **+56 9 99826954**
 
 ---
 
@@ -22,7 +22,6 @@ Tecnico especializado en infraestructura, automatización y seguridad informáti
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Actions" width="40" height="40"/>
 </p>
 
 > **Otras habilidades:** CI/CD | Networking | Cloud Security
