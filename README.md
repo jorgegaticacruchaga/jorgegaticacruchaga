@@ -2,7 +2,6 @@
 
 ### "Analista Programador especializado en infraestructura, automatización y seguridad informática"
 
-* 🔭 Estoy ahora mismo trabajando en soluciones **DevSecOps, CI/CD y administración cloud**.
 * 🌱 Estoy ahora mismo Cursando **BootCamp Full Stack JAVA**.
 * 🎓 Soy **Analista programador** con experiencia en telecomunicaciones y banca.
 * 🚀 Estoy mejorando día a día como profesional.
